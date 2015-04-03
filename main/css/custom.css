@@ -1,0 +1,24 @@
+/* custom google font css
+-------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Gochi Hand', cursive; 
+}
+
+.h1, h1 {
+  font-size: 56px;
+}
+
+p, div {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #D34591;
+  text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #59929D;
+}
